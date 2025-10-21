@@ -1,0 +1,6 @@
+import random 
+answers = ["Yes","No","Idk","Maybe","Ask Later","Im not gonna tell u","i dont get it","go for it","blub","yea i get it"]
+
+questions = input("ask a one liner question")
+print("thinking...")
+print(random.choice(answers))
