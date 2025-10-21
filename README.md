@@ -21,7 +21,7 @@ python brute_force_demo.py
 
 ### Enter a password (keep it short to avoid very long run times).
 
-- Notes
+## Notes
 
-Long passwords or large character sets will cause extremely long run times.
-Numbers and punctuations are not included
+-Long passwords or large character sets will cause extremely long run times.
+-Numbers and punctuations are not included
